@@ -8,52 +8,54 @@
 ### A
 
 ### B
-[Bash](B/bash.md)
+- [Bash](B/bash.md)
 
 ### C
-[C++](C/cpp.md)
+- [C++](C/cpp.md)
 
 ### D
-[Docker](D/docker.md)
+- [Docker](D/docker.md)
 
 ### E
-[Elasticsearch](E/elasticsearch.md)
+- [Elasticsearch](E/elasticsearch.md)
 
 ### F
 
 ### G
-[Go](G/go.md)
+- [Go](G/go.md)
 
 ### H
 
 ### I
 
 ### J
-[Javascript](J/javascript.md)
+- [Javascript](J/javascript.md)
 
 ### K
 
 ### L
-[Linux](L/linux.md)
+- [Linux](L/linux.md)
 
 ### M
 
 ### N
-[NginX](N/nginx.md)
-[Node.js](N/node-js.md)
+- [NginX](N/nginx.md)
+- [Node.js](N/node-js.md)
 
 ### O
 
 ### P
-[Python](P/python.md)
+- [Python](P/python.md)
+
 ### Q
 
 ### R
-[Redis](R/redis.md)
-[Rust](R/rust.md)
+- [Redis](R/redis.md)
+- [Rust](R/rust.md)
 
 ### S
-[Swift](S/swift.md)
+- [Swift](S/swift.md)
+
 ### T
 
 ### U
@@ -67,6 +69,3 @@
 ### Y
 
 ### Z
-
-
-
